@@ -163,6 +163,16 @@ u{
 
 }
 
+    
+.offi-imgyyz img{
+    width:100%;
+    height: 70%;
+    object-fit: cover;
+
+
+
+}
+
 .offi-imgyy img{
     max-width:100%;
     max-height: 70%;
