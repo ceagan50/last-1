@@ -878,6 +878,9 @@ img{
     .cube{
     margin-top: 29cm;
 }
+    .none{
+        display:none;
+    }
 
 .nav-bar{
     width: 90%;
