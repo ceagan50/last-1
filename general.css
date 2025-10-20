@@ -15,7 +15,11 @@ padding:2cm;
 }
 
 
-
+@media (min-width:1100px) and (max-width:1500){
+    .none{
+        display:none;
+    }
+}
 
 .top-header{
     position: fixed;
